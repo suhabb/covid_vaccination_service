@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      user: root
+      password: root
+      uri: mongodb://localhost:27017/covid_db
+  webflux:
+    base-path: /covid-vaccination-service
