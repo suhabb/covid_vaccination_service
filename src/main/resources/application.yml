@@ -6,3 +6,9 @@ spring:
       uri: mongodb://localhost:27017/covid_db
   webflux:
     base-path: /covid-vaccination-service
+  codec:
+    max-in-memory-size: 10MB
+
+logging:
+  level:
+    org.springframework.data.mongodb.core.ReactiveMongoTemplate: INFO

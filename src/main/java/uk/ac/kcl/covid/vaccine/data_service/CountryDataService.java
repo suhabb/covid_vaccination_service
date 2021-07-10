@@ -1,7 +1,6 @@
 package uk.ac.kcl.covid.vaccine.data_service;
 
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.ReactiveMongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
@@ -11,7 +10,6 @@ import reactor.core.publisher.Mono;
 import uk.ac.kcl.covid.vaccine.domain.Country;
 import uk.ac.kcl.covid.vaccine.repository.CountryRepository;
 
-import java.util.List;
 import java.util.Optional;
 
 @Service
@@ -38,6 +36,19 @@ public class CountryDataService {
         Flux<Country> countryList = reactiveMongoTemplate.find(new Query(criteria), Country.class);
         return countryList;
     }
+
+    public Mono<Country> findByIsoCode(String isoCode){
+       return this.countryRepository.findByIsoCode(isoCode);
+    }
+
+    public Mono<Country> save(Country country){
+        return this.countryRepository.save(country);
+    }
+
+    public Mono<Void> deleteAll(){
+        return this.countryRepository.deleteAll();
+    }
+
 
     public Mono<Country> findByCountry(String country){
         return this.countryRepository.findByCountry(country);

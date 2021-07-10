@@ -32,9 +32,9 @@ public class VaccineDTO {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
     public Date date;
     @JsonProperty("total_vaccinations")
-    public Integer totalVaccinations;
+    public Long totalVaccinations;
     @JsonProperty("people_vaccinated")
-    public Integer peopleVaccinated;
+    public Long peopleVaccinated;
     @JsonProperty("total_vaccinations_per_hundred")
     public Double totalVaccinationsPerHundred;
     @JsonProperty("people_vaccinated_per_hundred")

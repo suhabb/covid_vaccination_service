@@ -55,4 +55,36 @@ public class Mapper {
             throw new RuntimeException(exception);
         }
     }
+
+    public List<Country> mapToCountryList(List<CountryDTO> countryList) {
+
+       try {
+            return objectMapper.readValue(writeValueAsString(countryList), new TypeReference<List<Country>>(){});
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
+    }
+
+    public Country mapToCountry(CountryDTO countryDTO) {
+
+        try {
+            return objectMapper.readValue(writeValueAsString(countryDTO), Country.class);
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
+    }
+
+    public List<CountryDTO> mapStringToCountryList(String jsonString) {
+
+        try {
+            return objectMapper.readValue(jsonString,new TypeReference<List<CountryDTO>>(){});
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
+    }
+
+
 }

@@ -1,9 +1,7 @@
 package uk.ac.kcl.covid.vaccine.domain;
 
 
-import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -23,11 +21,11 @@ public class Vaccine {
 
     @JsonProperty("total_vaccinations")
     @Field("total_vaccinations")
-    public Integer totalVaccinations;
+    public Long totalVaccinations;
 
     @JsonProperty("people_vaccinated")
     @Field("people_vaccinated")
-    public Integer peopleVaccinated;
+    public Long peopleVaccinated;
 
     @JsonProperty("total_vaccinations_per_hundred")
     @Field("total_vaccinations_per_hundred")
