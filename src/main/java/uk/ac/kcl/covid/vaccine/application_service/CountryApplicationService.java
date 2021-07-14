@@ -18,24 +18,26 @@ public class CountryApplicationService {
     private CountryDataService countryDataService;
     private Mapper mapper;
 
-    public CountryApplicationService(Mapper mapper,CountryDataService countryDataService){
+    public CountryApplicationService(Mapper mapper, CountryDataService countryDataService) {
         this.countryDataService = countryDataService;
         this.mapper = mapper;
 
     }
 
-    public Flux<CountryDTO> search(Optional<String> isoCode){
+    public Flux<CountryDTO> search(Optional<String> isoCode) {
         Flux<Country> countryFlux = this.countryDataService.search(isoCode);
         return countryFlux.collectList().map(mapper::mapToCountryDtoList).flatMapMany(Flux::fromIterable);
     }
 
-    public Mono<CountryDTO> findByIsoCode(String isoCode){
+    public Mono<CountryDTO> findByIsoCode(String isoCode) {
         Mono<Country> countryMono = this.countryDataService.findByIsoCode(isoCode);
-        return countryMono.map(c->mapper.readValue(c,CountryDTO.class));
+        return countryMono.map(c -> mapper.readValue(c, CountryDTO.class));
     }
 
-    public Mono<CountryDTO> findByCountry(String country){
+    public Mono<CountryDTO> findByCountry(String country) {
         Mono<Country> countryMono = this.countryDataService.findByCountry(country);
-        return countryMono.map(c->mapper.readValue(c,CountryDTO.class));
+        return countryMono.map(c -> mapper.readValue(c, CountryDTO.class));
     }
+
+
 }

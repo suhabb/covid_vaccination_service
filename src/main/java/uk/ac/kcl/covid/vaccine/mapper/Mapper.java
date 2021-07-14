@@ -7,7 +7,9 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import uk.ac.kcl.covid.vaccine.data_transfer.CountryDTO;
+import uk.ac.kcl.covid.vaccine.data_transfer.ManufacturerDTO;
 import uk.ac.kcl.covid.vaccine.domain.Country;
+import uk.ac.kcl.covid.vaccine.domain.Manufacturer;
 
 import java.io.IOException;
 import java.util.List;
@@ -80,6 +82,26 @@ public class Mapper {
 
         try {
             return objectMapper.readValue(jsonString,new TypeReference<List<CountryDTO>>(){});
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
+    }
+
+    public Manufacturer mapToManufacturerDTO(ManufacturerDTO manufacturerDTO) {
+
+        try {
+            return objectMapper.readValue(writeValueAsString(manufacturerDTO), Manufacturer.class);
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
+    }
+
+    public List<Manufacturer> mapToManufacturerDTO(String manufacturerList) {
+
+        try {
+            return objectMapper.readValue(manufacturerList, new TypeReference<List<Manufacturer>>(){});
         } catch (IOException exception) {
             log.debug("Json exception read value method", exception);
             throw new RuntimeException(exception);

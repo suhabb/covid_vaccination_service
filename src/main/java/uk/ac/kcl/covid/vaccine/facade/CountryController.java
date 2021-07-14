@@ -37,10 +37,8 @@ public class CountryController {
     @GetMapping("/country/iso-code/{isoCode}")
     public Mono<ResponseEntity<CountryDTO>> findByIsoCode(@PathVariable("isoCode") String isoCode) {
         Mono<CountryDTO> monoCountryDto = countryApplicationService.findByIsoCode(isoCode);
-        return monoCountryDto.map( ResponseEntity::ok );
+        return monoCountryDto.map(ResponseEntity::ok );
     }
-
-
 
     @GetMapping("/country/{country}")
     public Mono<ResponseEntity<CountryDTO>> findByBlockId(@PathVariable("country") String country) {

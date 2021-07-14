@@ -1,0 +1,6479 @@
+[
+  {
+    "location": "Afghanistan",
+    "iso_code": "AFG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Aland Islands",
+    "iso_code": "ALA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Albania",
+    "iso_code": "ALB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Algeria",
+    "iso_code": "DZA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "American Samoa",
+    "iso_code": "ASM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Andorra",
+    "iso_code": "AND",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Angola",
+    "iso_code": "AGO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Anguilla",
+    "iso_code": "AIA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Antarctica",
+    "iso_code": "ATA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Antigua and Barbuda",
+    "iso_code": "ATG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Argentina",
+    "iso_code": "ARG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Armenia",
+    "iso_code": "ARM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Aruba",
+    "iso_code": "ABW",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Australia",
+    "iso_code": "AUS",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Austria",
+    "iso_code": "AUT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Azerbaijan",
+    "iso_code": "AZE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+
+  {
+    "location": "Bahamas",
+    "iso_code": "BHS",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bahrain",
+    "iso_code": "BHR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bangladesh",
+    "iso_code": "BGD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Barbados",
+    "iso_code": "BRB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Belarus",
+    "iso_code": "BLR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Belgium",
+    "iso_code": "BEL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Belize",
+    "iso_code": "BLZ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Benin",
+    "iso_code": "BEN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bermuda",
+    "iso_code": "BMU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bhutan",
+    "iso_code": "BTN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bolivia (Plurinational State of)",
+    "iso_code": "BOL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bonaire, Sint Eustatius and Saba",
+    "iso_code": "BES",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bosnia and Herzegovina",
+    "iso_code": "BIH",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Botswana",
+    "iso_code": "BWA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bouvet Island",
+    "iso_code": "BVT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Brazil",
+    "iso_code": "BRA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "British Indian Ocean Territory",
+    "iso_code": "IOT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Brunei Darussalam",
+    "iso_code": "BRN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Bulgaria",
+    "iso_code": "BGR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Burkina Faso",
+    "iso_code": "BFA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Burundi",
+    "iso_code": "BDI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Cabo Verde",
+    "iso_code": "CPV",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Cambodia",
+    "iso_code": "KHM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Cameroon",
+    "iso_code": "CMR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Canada",
+    "iso_code": "CAN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Cayman Islands",
+    "iso_code": "CYM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Central African Republic",
+    "iso_code": "CAF",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Chad",
+    "iso_code": "TCD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Chile",
+    "iso_code": "CHL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "China",
+    "iso_code": "CHN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Christmas Island",
+    "iso_code": "CXR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Cocos (Keeling) Islands",
+    "iso_code": "CCK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Colombia",
+    "iso_code": "COL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Comoros",
+    "iso_code": "COM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Congo",
+    "iso_code": "COG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Congo, Democratic Republic of the",
+    "iso_code": "COD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Cook Islands",
+    "iso_code": "COK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Costa Rica",
+    "iso_code": "CRI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Côte d'Ivoire",
+    "iso_code": "CIV",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Croatia",
+    "iso_code": "HRV",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+
+  {
+    "location": "Cuba",
+    "iso_code": "CUB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Curaçao",
+    "iso_code": "CUW",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Cyprus",
+    "iso_code": "CYP",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Czechia",
+    "iso_code": "CZE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Denmark",
+    "iso_code": "DNK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Djibouti",
+    "iso_code": "DJI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Dominica",
+    "iso_code": "DMA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Dominican Republic",
+    "iso_code": "DOM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Ecuador",
+    "iso_code": "ECU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Egypt",
+    "iso_code": "EGY",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "El Salvador",
+    "iso_code": "SLV",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Equatorial Guinea",
+    "iso_code": "GNQ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Eritrea",
+    "iso_code": "ERI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Estonia",
+    "iso_code": "EST",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Eswatini",
+    "iso_code": "SWZ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Ethiopia",
+    "iso_code": "ETH",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Falkland Islands (Malvinas)",
+    "iso_code": "FLK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Faroe Islands",
+    "iso_code": "FRO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Fiji",
+    "iso_code": "FJI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Finland",
+    "iso_code": "FIN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "France",
+    "iso_code": "FRA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "French Guiana",
+    "iso_code": "GUF",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "French Polynesia",
+    "iso_code": "PYF",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "French Southern Territories",
+    "iso_code": "ATF",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Gabon",
+    "iso_code": "GAB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Gambia",
+    "iso_code": "GMB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Georgia",
+    "iso_code": "GEO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Germany",
+    "iso_code": "DEU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Ghana",
+    "iso_code": "GHA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Gibraltar",
+    "iso_code": "GIB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Greece",
+    "iso_code": "GRC",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Greenland",
+    "iso_code": "GRL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Grenada",
+    "iso_code": "GRD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Guadeloupe",
+    "iso_code": "GLP",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Guam",
+    "iso_code": "GUM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Guatemala",
+    "iso_code": "GTM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Guernsey",
+    "iso_code": "GGY",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Guinea",
+    "iso_code": "GIN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Guinea-Bissau",
+    "iso_code": "GNB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Guyana",
+    "iso_code": "GUY",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Haiti",
+    "iso_code": "HTI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Heard Island and McDonald Islands",
+    "iso_code": "HMD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Holy See",
+    "iso_code": "VAT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Honduras",
+    "iso_code": "HND",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Hong Kong",
+    "iso_code": "HKG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Hungary",
+    "iso_code": "HUN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Iceland",
+    "iso_code": "ISL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "India",
+    "iso_code": "IND",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Indonesia",
+    "iso_code": "IDN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Iran (Islamic Republic of)",
+    "iso_code": "IRN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Iraq",
+    "iso_code": "IRQ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Ireland",
+    "iso_code": "IRL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Isle of Man",
+    "iso_code": "IMN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Israel",
+    "iso_code": "ISR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Italy",
+    "iso_code": "ITA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Jamaica",
+    "iso_code": "JAM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Japan",
+    "iso_code": "JPN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Jersey",
+    "iso_code": "JEY",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Jordan",
+    "iso_code": "JOR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Kazakhstan",
+    "iso_code": "KAZ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Kenya",
+    "iso_code": "KEN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Kiribati",
+    "iso_code": "KIR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Korea (Democratic People's Republic of)",
+    "iso_code": "PRK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Korea, Republic of",
+    "iso_code": "KOR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Kuwait",
+    "iso_code": "KWT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Kyrgyzstan",
+    "iso_code": "KGZ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Lao People's Democratic Republic",
+    "iso_code": "LAO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Latvia",
+    "iso_code": "LVA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Lebanon",
+    "iso_code": "LBN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Lesotho",
+    "iso_code": "LSO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Liberia",
+    "iso_code": "LBR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Libya",
+    "iso_code": "LBY",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Liechtenstein",
+    "iso_code": "LIE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Lithuania",
+    "iso_code": "LTU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Luxembourg",
+    "iso_code": "LUX",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Macao",
+    "iso_code": "MAC",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Madagascar",
+    "iso_code": "MDG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Malawi",
+    "iso_code": "MWI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Malaysia",
+    "iso_code": "MYS",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Maldives",
+    "iso_code": "MDV",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Mali",
+    "iso_code": "MLI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Malta",
+    "iso_code": "MLT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Marshall Islands",
+    "iso_code": "MHL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Martinique",
+    "iso_code": "MTQ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Mauritania",
+    "iso_code": "MRT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Mauritius",
+    "iso_code": "MUS",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Mayotte",
+    "iso_code": "MYT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Mexico",
+    "iso_code": "MEX",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Micronesia (Federated States of)",
+    "iso_code": "FSM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Moldova, Republic of",
+    "iso_code": "MDA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Monaco",
+    "iso_code": "MCO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Mongolia",
+    "iso_code": "MNG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Montenegro",
+    "iso_code": "MNE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Montserrat",
+    "iso_code": "MSR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Morocco",
+    "iso_code": "MAR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Mozambique",
+    "iso_code": "MOZ",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Myanmar",
+    "iso_code": "MMR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Namibia",
+    "iso_code": "NAM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Nauru",
+    "iso_code": "NRU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Nepal",
+    "iso_code": "NPL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Netherlands",
+    "iso_code": "NLD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "New Caledonia",
+    "iso_code": "NCL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "New Zealand",
+    "iso_code": "NZL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Nicaragua",
+    "iso_code": "NIC",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Niger",
+    "iso_code": "NER",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Nigeria",
+    "iso_code": "NGA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Niue",
+    "iso_code": "NIU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Norfolk Island",
+    "iso_code": "NFK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "North Macedonia",
+    "iso_code": "MKD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Northern Mariana Islands",
+    "iso_code": "MNP",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Norway",
+    "iso_code": "NOR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Oman",
+    "iso_code": "OMN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Pakistan",
+    "iso_code": "PAK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Palau",
+    "iso_code": "PLW",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Palestine, State of",
+    "iso_code": "PSE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Panama",
+    "iso_code": "PAN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Papua New Guinea",
+    "iso_code": "PNG",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Paraguay",
+    "iso_code": "PRY",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Peru",
+    "iso_code": "PER",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Philippines",
+    "iso_code": "PHL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Pitcairn",
+    "iso_code": "PCN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Poland",
+    "iso_code": "POL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Portugal",
+    "iso_code": "PRT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Puerto Rico",
+    "iso_code": "PRI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Qatar",
+    "iso_code": "QAT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Réunion",
+    "iso_code": "REU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Romania",
+    "iso_code": "ROU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Russian Federation",
+    "iso_code": "RUS",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Rwanda",
+    "iso_code": "RWA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saint Barthélemy",
+    "iso_code": "BLM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saint Helena, Ascension and Tristan da Cunha",
+    "iso_code": "SHN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saint Kitts and Nevis",
+    "iso_code": "KNA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saint Lucia",
+    "iso_code": "LCA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saint Martin (French part)",
+    "iso_code": "MAF",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saint Pierre and Miquelon",
+    "iso_code": "SPM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saint Vincent and the Grenadines",
+    "iso_code": "VCT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Samoa",
+    "iso_code": "WSM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "San Marino",
+    "iso_code": "SMR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Sao Tome and Principe",
+    "iso_code": "STP",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Saudi Arabia",
+    "iso_code": "SAU",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Senegal",
+    "iso_code": "SEN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Serbia",
+    "iso_code": "SRB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Seychelles",
+    "iso_code": "SYC",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Sierra Leone",
+    "iso_code": "SLE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Singapore",
+    "iso_code": "SGP",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Sint Maarten (Dutch part)",
+    "iso_code": "SXM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Slovakia",
+    "iso_code": "SVK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Slovenia",
+    "iso_code": "SVN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Solomon Islands",
+    "iso_code": "SLB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Somalia",
+    "iso_code": "SOM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "South Africa",
+    "iso_code": "ZAF",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "South Georgia and the South Sandwich Islands",
+    "iso_code": "SGS",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "South Sudan",
+    "iso_code": "SSD",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Spain",
+    "iso_code": "ESP",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Sri Lanka",
+    "iso_code": "LKA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Sudan",
+    "iso_code": "SDN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Surilocation",
+    "iso_code": "SUR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Svalbard and Jan Mayen",
+    "iso_code": "SJM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Sweden",
+    "iso_code": "SWE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Switzerland",
+    "iso_code": "CHE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Syrian Arab Republic",
+    "iso_code": "SYR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Taiwan, Province of China",
+    "iso_code": "TWN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Tajikistan",
+    "iso_code": "TJK",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Tanzania, United Republic of",
+    "iso_code": "TZA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Thailand",
+    "iso_code": "THA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Timor-Leste",
+    "iso_code": "TLS",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Togo",
+    "iso_code": "TGO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Tokelau",
+    "iso_code": "TKL",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Tonga",
+    "iso_code": "TON",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Trinidad and Tobago",
+    "iso_code": "TTO",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Tunisia",
+    "iso_code": "TUN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Turkey",
+    "iso_code": "TUR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Turkmenistan",
+    "iso_code": "TKM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Turks and Caicos Islands",
+    "iso_code": "TCA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Tuvalu",
+    "iso_code": "TUV",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Uganda",
+    "iso_code": "UGA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Ukraine",
+    "iso_code": "UKR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "United Arab Emirates",
+    "iso_code": "ARE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "United Kingdom of Great Britain and Northern Ireland",
+    "iso_code": "GBR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "United States of America",
+    "iso_code": "USA",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "United States Minor Outlying Islands",
+    "iso_code": "UMI",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Uruguay",
+    "iso_code": "URY",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Uzbekistan",
+    "iso_code": "UZB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Vanuatu",
+    "iso_code": "VUT",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Venezuela (Bolivarian Republic of)",
+    "iso_code": "VEN",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Viet Nam",
+    "iso_code": "VNM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Virgin Islands (British)",
+    "iso_code": "VGB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Virgin Islands (U.S.)",
+    "iso_code": "VIR",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Wallis and Futuna",
+    "iso_code": "WLF",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Western Sahara",
+    "iso_code": "ESH",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Yemen",
+    "iso_code": "YEM",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+
+  },
+  {
+    "location": "Zambia",
+    "iso_code": "ZMB",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  },
+  {
+    "location": "Zimbabwe",
+    "iso_code": "ZWE",
+    "vaccineCompanies": [
+      {
+        "date": "2021-07-08",
+        "vaccine": "Johnson&Johnson",
+        "totalVaccinations": 24782
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Moderna",
+        "totalVaccinations": 96650
+      },
+      {
+        "date": "2021-07-08",
+        "vaccine": "Oxford/AstraZeneca",
+        "totalVaccinations": 234381
+      },
+      {
+        "date": "2021-07-08T",
+        "vaccine": "Pfizer/BioNTech",
+        "totalVaccinations": 657228
+      }
+    ]
+  }
+]

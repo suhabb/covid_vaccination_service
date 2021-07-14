@@ -30,22 +30,22 @@ public class VaccineDTO {
 
     @JsonProperty("date")
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
-    public Date date;
+    private Date date;
     @JsonProperty("total_vaccinations")
-    public Long totalVaccinations;
+    private Long totalVaccinations;
     @JsonProperty("people_vaccinated")
-    public Long peopleVaccinated;
+    private Long peopleVaccinated;
     @JsonProperty("total_vaccinations_per_hundred")
-    public Double totalVaccinationsPerHundred;
+    private Double totalVaccinationsPerHundred;
     @JsonProperty("people_vaccinated_per_hundred")
-    public Double peopleVaccinatedPerHundred;
+    private Double peopleVaccinatedPerHundred;
     @JsonProperty("people_fully_vaccinated")
-    public Integer peopleFullyVaccinated;
+    private Integer peopleFullyVaccinated;
     @JsonProperty("daily_vaccinations")
-    public Integer dailyVaccinations;
+    private Integer dailyVaccinations;
     @JsonProperty("people_fully_vaccinated_per_hundred")
-    public Double peopleFullyVaccinatedPerHundred;
+    private Double peopleFullyVaccinatedPerHundred;
     @JsonProperty("daily_vaccinations_per_million")
-    public Integer dailyVaccinationsPerMillion;
+    private Integer dailyVaccinationsPerMillion;
 
 }
