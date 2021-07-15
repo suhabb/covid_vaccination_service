@@ -49,6 +49,10 @@ public class CountryDataService {
         return this.countryRepository.deleteAll();
     }
 
+    public Flux<Country> findAll(){
+        return this.countryRepository.findAll();
+    }
+
 
     public Mono<Country> findByCountry(String country){
         return this.countryRepository.findByCountry(country);
