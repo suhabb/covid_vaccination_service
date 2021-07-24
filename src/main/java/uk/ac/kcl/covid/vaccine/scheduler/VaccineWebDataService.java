@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
+import reactor.util.retry.Retry;
 import uk.ac.kcl.covid.vaccine.data_service.CountryDataService;
 import uk.ac.kcl.covid.vaccine.data_service.ManufacturerDataService;
 import uk.ac.kcl.covid.vaccine.data_transfer.CountryDTO;
@@ -27,6 +28,7 @@ import java.io.StringReader;
 import java.nio.file.Files;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.Duration;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -73,13 +75,14 @@ public class VaccineWebDataService {
     }
 
     @Scheduled(fixedRate = 60 * 60 * 1000)
-    public void getUpdatedVaccineDataFromApi() {
+    public void getUpdatedVaccineDataFromApi() throws InterruptedException {
         log.info("Vaccine API update started {}:", LocalDate.now());
 
         Mono<String> countryDTOMono = this.webClient.get()
                 .uri("/owid/covid-19-data/master/public/data/vaccinations/vaccinations.json")
                 .retrieve()
-                .bodyToMono(String.class);
+                .bodyToMono(String.class)
+                .retryWhen(Retry.backoff(3, Duration.ofSeconds(2)));
         log.info("Deleting All Data {}:", LocalDateTime.now());
         countryDataService.deleteAll().subscribe();
         log.info("Starting to add data from API.............  ,Time:{}", LocalDateTime.now());
@@ -99,7 +102,7 @@ public class VaccineWebDataService {
         Flux<Country> countryFlux = countryDataService.findAll();
         manufacturerDataService.deleteAll().subscribe();
         log.info("Start to Generate Mock data for manufacturer ");
-        List<String> isoCodeList = Arrays.asList("RUS", "CHN", "ARE", "IND", "PAK");
+        List<String> isoCodeList = Arrays.asList("RUS", "CHN", "ARE", "IND", "PAK","GBR");
         countryFlux.mapNotNull(country -> {
             Manufacturer manufacturer = new Manufacturer();
             manufacturer.setIsoCode(country.getIsoCode());
@@ -174,6 +177,38 @@ public class VaccineWebDataService {
             int[] selectedArray = new int[]{70, 20, 5, 5};
             List<String> vaccineCompanyNameList = Arrays.asList("Sinovac",
                     "Oxford/AstraZeneca", "Sputnik", "Pfizer");
+            List<VaccineCompany> vaccineCompanies = new ArrayList<>();
+            IntStream.range(0, vaccineCompanyNameList.size()).forEach(index -> {
+                VaccineCompany vaccineCompany = new VaccineCompany();
+                int percentage = selectedArray[index];
+                Long vaccineOfEachCompany = getVaccinationOfEachCompany(percentage, vaccine.getTotalVaccinations());
+                String vaccineCompanyString = vaccineCompanyNameList.get(index);
+                vaccineCompany.setTotalVaccinations(vaccineOfEachCompany);
+                vaccineCompany.setVaccine(vaccineCompanyString);
+                vaccineCompany.setDate(vaccine.getDate());
+                vaccineCompanies.add(vaccineCompany);
+            });
+            manufacturer.setVaccineCompanies(vaccineCompanies);
+        } else if (manufacturer.getIsoCode().equalsIgnoreCase("ARE")) {
+            int[] selectedArray = new int[]{70, 20, 5, 5};
+            List<String> vaccineCompanyNameList = Arrays.asList("Sinovac",
+                    "Oxford/AstraZeneca", "Sputnik", "Pfizer");
+            List<VaccineCompany> vaccineCompanies = new ArrayList<>();
+            IntStream.range(0, vaccineCompanyNameList.size()).forEach(index -> {
+                VaccineCompany vaccineCompany = new VaccineCompany();
+                int percentage = selectedArray[index];
+                Long vaccineOfEachCompany = getVaccinationOfEachCompany(percentage, vaccine.getTotalVaccinations());
+                String vaccineCompanyString = vaccineCompanyNameList.get(index);
+                vaccineCompany.setTotalVaccinations(vaccineOfEachCompany);
+                vaccineCompany.setVaccine(vaccineCompanyString);
+                vaccineCompany.setDate(vaccine.getDate());
+                vaccineCompanies.add(vaccineCompany);
+            });
+            manufacturer.setVaccineCompanies(vaccineCompanies);
+        } else if (manufacturer.getIsoCode().equalsIgnoreCase("GBR")) {
+            int[] selectedArray = new int[]{20, 40, 35, 5};
+            List<String> vaccineCompanyNameList = Arrays.asList("Moderna",
+                    "Oxford/AstraZeneca", "Pfizer", "Johnson&Johnson");
             List<VaccineCompany> vaccineCompanies = new ArrayList<>();
             IntStream.range(0, vaccineCompanyNameList.size()).forEach(index -> {
                 VaccineCompany vaccineCompany = new VaccineCompany();
