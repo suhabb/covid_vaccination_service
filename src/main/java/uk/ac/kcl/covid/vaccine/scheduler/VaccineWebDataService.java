@@ -259,59 +259,7 @@ public class VaccineWebDataService {
     }
 
 
-  /*  @Scheduled(fixedDelay = 60*60*1000)
-    public void getManufacturerVaccineDataFromApi() throws Exception {
-        log.info("Manufacturer API update started {}:", LocalDate.now());
-        Mono<String> vaccineDTOFlux = this.webClient.get()
-                .uri("/owid/covid-19-data/master/public/data/vaccinations/vaccinations-by-manufacturer.csv")
-                .retrieve()
-                .bodyToMono(String.class);
-        Pattern pattern = Pattern.compile(",");
-        Optional<String> blockOptional = vaccineDTOFlux.blockOptional();
-        if (blockOptional.isPresent()) {
-            try (BufferedReader in = new BufferedReader(new StringReader(blockOptional.get()))) {
-                List<ManufacturerDTO> manufacturersList = in.lines().skip(1).map(line -> {
-                    String[] x = pattern.split(line);
-                    Date date = null;
-                    try {
-                        final SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
-                        simpleDateFormat.applyPattern("yyyy-MM-dd");
-                        date = simpleDateFormat.parse(x[1]);
-                    } catch (ParseException e) {
-                        e.printStackTrace();
-                    }
-                    return new ManufacturerDTO((x[0]), date, x[2], new Long(x[3]));
-                }).collect(Collectors.toList());
-                ObjectMapper mapper = new ObjectMapper();
-                mapper.enable(SerializationFeature.INDENT_OUTPUT);
-                mapper.writeValue(System.out, vaccineDTOFlux);
-                Map<String, List<ManufacturerDTO>> groupByCountry = manufacturersList.stream()
-                        .collect(groupingBy(ManufacturerDTO::getLocation, toList()));
-                log.info("Country:{}", groupByCountry);
-                buildMapOfIso3Countries();
-                List<Map<String, List<ManufacturerDTO>>> listOfMap = new ArrayList<>();
-                groupByCountry.entrySet().forEach(item -> {
-                    List<ManufacturerDTO> manufacturerDTOList = item.getValue();
-                    Date maxDate = manufacturerDTOList.stream().map(ManufacturerDTO::getDate)
-                            .max(Date::compareTo).get();
-                    List<ManufacturerDTO> updatedManufactureDto = manufacturerDTOList.stream().filter(dto -> dto.getDate().equals(maxDate))
-                            .collect(Collectors.toList());
-                    Map<String, List<ManufacturerDTO>> map = updatedManufactureDto.stream().map(dto -> {
-                        String isoCode3 = this.mapOfIso3Countries.get(dto.getLocation());
-                        if(isoCode3 == null || isoCode3.isEmpty()){
-                            isoCode3 = dto.getLocation();
-                        }
-                    //    dto.setIsoCode(isoCode3);
-                        return dto;
-                    }).collect(groupingBy(ManufacturerDTO::getIsoCode, toList()));
-                    listOfMap.add(map);
-                });
-                log.info("listOfMap:{}",listOfMap.toString());
-            }
-        }
-    }*/
-
-    // @Scheduled(fixedDelay = 10000)
+   // @Scheduled(fixedDelay = 10000)
     public void getManufacturerVaccineDataFromApi1() throws Exception {
         log.info("Manufacturer API update started {}:", LocalDate.now());
         Mono<String> vaccineDTOFlux = this.webClient.get()

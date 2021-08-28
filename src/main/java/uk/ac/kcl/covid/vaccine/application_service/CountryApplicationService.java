@@ -38,6 +38,4 @@ public class CountryApplicationService {
         Mono<Country> countryMono = this.countryDataService.findByCountry(country);
         return countryMono.map(c -> mapper.readValue(c, CountryDTO.class));
     }
-
-
 }

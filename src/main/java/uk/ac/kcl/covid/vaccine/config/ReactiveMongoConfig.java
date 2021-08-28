@@ -14,6 +14,6 @@ class ReactiveMongoConfig {
 
     @Bean
     public ReactiveMongoTemplate reactiveMongoTemplate() {
-        return new ReactiveMongoTemplate(mongoClient, "covid_db");
+        return new ReactiveMongoTemplate(mongoClient, "covid_vaccination_db");
     }
 }
