@@ -4,7 +4,6 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import uk.ac.kcl.covid.vaccine.data_transfer.CountryDTO;
 import uk.ac.kcl.covid.vaccine.data_transfer.ManufacturerDTO;
@@ -18,8 +17,11 @@ import java.util.List;
 @Slf4j
 public class Mapper {
 
-    @Autowired
-    public ObjectMapper objectMapper;
+    private ObjectMapper objectMapper;
+
+    public Mapper(ObjectMapper objectMapper){
+        this.objectMapper = objectMapper;
+    }
 
     public <T> T readValue(Object object, Class<T> clazz) {
         try {
@@ -108,5 +110,23 @@ public class Mapper {
         }
     }
 
+    public CountryDTO mapStringToCountry(String country) {
 
+        try {
+            return objectMapper.readValue(country, CountryDTO.class);
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
+    }
+
+    public ManufacturerDTO mapToStringManufacturerDTO(String manufacturer) {
+
+        try {
+            return objectMapper.readValue(manufacturer, ManufacturerDTO.class);
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
+    }
 }

@@ -1,40 +1,64 @@
 package uk.ac.kcl.covid.vaccine.application_service;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.springframework.core.io.ClassPathResource;
+import reactor.core.publisher.Mono;
+import reactor.test.StepVerifier;
+import uk.ac.kcl.covid.vaccine.data_service.CountryDataService;
+import uk.ac.kcl.covid.vaccine.data_transfer.CountryDTO;
+import uk.ac.kcl.covid.vaccine.domain.Country;
+import uk.ac.kcl.covid.vaccine.mapper.Mapper;
 
-import java.util.HashMap;
-import java.util.Locale;
-import java.util.Random;
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+
+import static org.mockito.ArgumentMatchers.anyString;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
 
 @Slf4j
 public class CountryApplicationServiceTest {
 
+    private CountryApplicationService countryApplicationService;
 
-    @Test
-    public void test(){
-        HashMap<String, String> mapOfIso3Countries = new HashMap<String, String>();
-        String[] countryCodes = Locale.getISOCountries();
-        for (String cc : countryCodes) {
-            // country name , country code map
-            Locale locale = new Locale("", cc);
-            mapOfIso3Countries.put(new Locale("", cc).getDisplayCountry(), locale.getISO3Country()
-                    .toUpperCase());
-        }
+    private CountryDataService countryDataService=mock(CountryDataService.class);
+    private Mapper mapper = new Mapper(new ObjectMapper());
+
+
+    @BeforeEach()
+    public void setUp(){
+        countryApplicationService = new CountryApplicationService(mapper,countryDataService);
     }
 
+
     @Test
-    public void test2(){
-        int[][] arrays = new int[4][];
+    public void given_iso_code_return_country_mono() throws IOException {
+        File resource = new ClassPathResource(
+                "json/country_vaccination.json").getFile();
+        String mockTimelineJson = new String(Files.readAllBytes(resource.toPath()));
 
-        arrays[0] = new int[] {25, 33, 25, 17};
-        arrays[1] = new int[] {10, 23, 30, 37};
-        arrays[2] = new int[] {19, 21, 40, 20};
-        arrays[3] = new int[] {35, 15, 20, 30};
-        Random random = new Random();
-        int number = random.nextInt(4);
+        Country country = mapToCountry(mockTimelineJson);
+        when(countryDataService.findByIsoCode(anyString())).thenReturn(Mono.just(country));
+        Mono<CountryDTO> countryDTOMono = countryApplicationService.findByIsoCode("GBR");
+        CountryDTO countryDTO = mapper.mapStringToCountry(mockTimelineJson);
+        StepVerifier
+                .create( countryDTOMono )
+                .expectNext(countryDTO)
+                .expectComplete()
+                .verify();
+    }
 
-        int[] selectedArray = arrays[number];
-        System.out.println("CountryApplicationServiceTest.test2:"+ number+"---"+selectedArray[3]);
+    public Country mapToCountry(String countryDTO) {
+
+        try {
+            return new ObjectMapper().readValue(countryDTO, Country.class);
+        } catch (IOException exception) {
+            log.debug("Json exception read value method", exception);
+            throw new RuntimeException(exception);
+        }
     }
 }

@@ -1,0 +1,26 @@
+{
+  "location": "United Kingdom",
+  "iso_code": "GBR",
+  "vaccineCompanies": [
+    {
+      "date": "2021-08-29",
+      "vaccine": "Moderna",
+      "totalVaccinations": 18148716
+    },
+    {
+      "date": "2021-08-29",
+      "vaccine": "Oxford/AstraZeneca",
+      "totalVaccinations": 36297432
+    },
+    {
+      "date": "2021-08-29",
+      "vaccine": "Pfizer",
+      "totalVaccinations": 31760253
+    },
+    {
+      "date": "2021-08-29",
+      "vaccine": "Johnson&Johnson",
+      "totalVaccinations": 4537179
+    }
+  ]
+}
