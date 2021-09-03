@@ -1,5 +1,5 @@
 # Covid Vaccination Service
-Covid Vacciantion service runs o nthe port 8080
+Covid Vacciantion service runs on the port 8080
 
   http://localhost:8080
 
@@ -22,7 +22,7 @@ What things you need to install the software and how to install them
   Or
   - mvn spring-boot:run
   Or
-  - Can import in INtelliJ aand run as main application by adding the Main file
+  - Can import in IntelliJ aand run as main application by adding the Main file
 
 ## Diagnostics
 
