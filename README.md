@@ -19,6 +19,16 @@ What things you need to install the software and how to install them
   - MongoDb  
   - Run the script for creating database and collection in mongodb
 ```
+### Databse Scripts
+
+  ``
+    use covid_vaccination_db;
+    db.createCollection("manufacturer");
+    db.createCollection("vaccination");
+    db.vaccination.createIndex( { "iso_code": 1 }, { unique: true } );
+    db.manufacturer.createIndex( { "iso_code": 1 }, { unique: true } );
+
+  ``
 ## Start the spring boot service from root folder of the project
   - mvn clean package
   - java -jar target/covid_vaccination_service-0.0.1-SNAPSHOT.jar
