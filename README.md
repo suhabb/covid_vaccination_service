@@ -1,7 +1,10 @@
 # Covid Vaccination Service
-Covid Vacciantion service runs on the port 8080
 
-  http://localhost:8080
+Covid Vaccination Service is Reactive Spring Boot Microservice which is specifically return’s the data of vaccination details of each country.
+The data source used is publicly available database in the github account of OWID(Our World In Data). 
+
+- Covid Vacciantion service runs on the port 8080
+  `` http://localhost:8080``
 
 ## Prerequisites
 
@@ -41,4 +44,10 @@ What things you need to install the software and how to install them
 ## Contributing
 
  - Suhail Mir
-
+  
+ ## References
+  - https://start.spring.io/
+  - https://spring.io/reactive
+  
+ ## Dataset
+    - https://github.com/owid/covid-19-data/tree/master/public/data
