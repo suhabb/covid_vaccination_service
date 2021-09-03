@@ -24,6 +24,13 @@ What things you need to install the software and how to install them
   Or
   - Can import in IntelliJ aand run as main application by adding the Main file
 
+## API
+  - http://localhost:8080/covid-vaccination-service/vaccination/country/iso-code/{iso-code}
+  - http://localhost:8080/covid-vaccination-service/vaccination/manufacturer/iso-code/{iso-code}
+  -
+  - Repalce iso-code with isocode3 of countrties like GBR,IND.
+  - Example : http://localhost:8080/covid-vaccination-service/vaccination/manufacturer/iso-code/GBR
+
 ## Diagnostics
 
 1. Check for jdk version as it requires JDK 11
