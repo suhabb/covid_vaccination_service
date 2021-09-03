@@ -40,12 +40,12 @@ public class VaccineDTO {
     @JsonProperty("people_vaccinated_per_hundred")
     private Double peopleVaccinatedPerHundred;
     @JsonProperty("people_fully_vaccinated")
-    private Integer peopleFullyVaccinated;
+    private Long peopleFullyVaccinated;
     @JsonProperty("daily_vaccinations")
-    private Integer dailyVaccinations;
+    private Long dailyVaccinations;
     @JsonProperty("people_fully_vaccinated_per_hundred")
     private Double peopleFullyVaccinatedPerHundred;
     @JsonProperty("daily_vaccinations_per_million")
-    private Integer dailyVaccinationsPerMillion;
+    private Long dailyVaccinationsPerMillion;
 
 }

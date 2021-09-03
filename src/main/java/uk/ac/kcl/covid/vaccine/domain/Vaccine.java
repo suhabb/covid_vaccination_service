@@ -37,11 +37,11 @@ public class Vaccine {
 
     @JsonProperty("people_fully_vaccinated")
     @Field("people_fully_vaccinated")
-    public Integer peopleFullyVaccinated;
+    public Long peopleFullyVaccinated;
 
     @JsonProperty("daily_vaccinations")
     @Field("daily_vaccinations")
-    public Integer dailyVaccinations;
+    public Long dailyVaccinations;
 
     @JsonProperty("people_fully_vaccinated_per_hundred")
     @Field("people_fully_vaccinated_per_hundred")
@@ -49,6 +49,6 @@ public class Vaccine {
 
     @JsonProperty("daily_vaccinations_per_million")
     @Field("daily_vaccinations_per_million")
-    public Integer dailyVaccinationsPerMillion;
+    public Long dailyVaccinationsPerMillion;
 
 }
