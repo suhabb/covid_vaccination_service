@@ -19,9 +19,9 @@ What things you need to install the software and how to install them
 ## Start the spring boot service from root folder of the project
   - mvn clean package
   - java -jar target/covid_vaccination_service-0.0.1-SNAPSHOT.jar
-  Or
+   * ``(Or)``
   - mvn spring-boot:run
-  Or
+   * ``(Or)``
   - Can import in IntelliJ aand run as main application by adding the Main file
 
 ## API
